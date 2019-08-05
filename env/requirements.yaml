@@ -13,6 +13,3 @@ dependencies:
 - name: opentest-movies-go
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.10
-- name: test-camel
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
