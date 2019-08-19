@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.3
 - name: opentest-movies-go
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.118
+  version: 0.0.119
